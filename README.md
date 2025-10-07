@@ -35,8 +35,8 @@ I’m passionate about **building modern web apps**, exploring **AI & automation
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rznish-Singh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rznish-Singh&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
@@ -44,7 +44,7 @@ I’m passionate about **building modern web apps**, exploring **AI & automation
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rznish-Singh&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
