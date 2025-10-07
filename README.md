@@ -16,22 +16,6 @@ I’m passionate about **building modern web apps**, exploring **AI & automation
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages:**  
-`C++` `Python` `JavaScript` `TypeScript` `Java`  
-
-**Frontend:**  
-`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`  
-
-**Backend:**  
-`Node.js` `Express.js` `PHP` `MySQL` `MongoDB`  
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Docker` `Firebase` `Vercel`  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -41,31 +25,6 @@ I’m passionate about **building modern web apps**, exploring **AI & automation
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rznish-Singh&theme=onedark&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## ✨ Quote of the Day  
-> "First, solve the problem. Then, write the code." – *John Johnson*
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
 
 
 <!--
