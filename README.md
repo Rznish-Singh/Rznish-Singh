@@ -3,16 +3,7 @@
 ### 💻  Developer | 🚀 Tech Enthusiast | 🎯 Lifelong Learner | Student  
 
 Welcome to my GitHub profile!  
-I’m passionate about **building modern web apps**, exploring **AI & automation**, and writing **clean, efficient code**.  
-
----
-
-## 🧠 About Me  
-- 🌱 Currently learning: **NEXT_BIG_TECH (e.g., Next.js / AI / DevOps)**  
-- 💼 Working on: **PROJECT_OR_INTEREST (e.g., Open Source, Web Apps)**  
-- 💬 Ask me about: **YOUR_TECH_SKILLS (e.g., React, Node.js, Python)**  
-- 📫 Reach me at: **[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)**  
-- ⚡ Fun fact: **YOUR_FUN_FACT (e.g., I debug with coffee ☕)**  
+I’m passionate about **building modern web apps**, exploring **AI & automation**, and writing **clean, efficient code**. 
 
 ---
 
