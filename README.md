@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajnish  
+# 🙏 नमस्ते, I'm Rajnish  
 
 
 Welcome to my GitHub profile!  
